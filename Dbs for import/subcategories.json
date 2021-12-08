@@ -1,0 +1,112 @@
+[
+  {
+    "_id": {
+      "$oid": "61ae3b61315eed911452a7b1"
+    },
+    "title": "Townhouse",
+    "categoryId": {
+      "$oid": "61ae3b51315eed911452a7ae"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61ae3bd8694720a9721c4741"
+    },
+    "title": "Condo",
+    "categoryId": {
+      "$oid": "61ae3b51315eed911452a7ae"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61ae3bfc694720a9721c4747"
+    },
+    "title": "Flat",
+    "categoryId": {
+      "$oid": "61ae3b51315eed911452a7ae"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61ae3c2e694720a9721c474f"
+    },
+    "title": "Rowhouse",
+    "categoryId": {
+      "$oid": "61ae3c20694720a9721c474c"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61ae3c68694720a9721c4754"
+    },
+    "title": "Villa",
+    "categoryId": {
+      "$oid": "61ae3c20694720a9721c474c"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61ae3c91694720a9721c4759"
+    },
+    "title": "Townhouse",
+    "categoryId": {
+      "$oid": "61ae3c20694720a9721c474c"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61ae3cc8694720a9721c475e"
+    },
+    "title": "Condo",
+    "categoryId": {
+      "$oid": "61ae3c20694720a9721c474c"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61ae3cf4694720a9721c4766"
+    },
+    "title": "Condo",
+    "categoryId": {
+      "$oid": "61ae3ce7694720a9721c4763"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61ae3d17694720a9721c476b"
+    },
+    "title": "Rowhouse",
+    "categoryId": {
+      "$oid": "61ae3ce7694720a9721c4763"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61ae3d34694720a9721c4770"
+    },
+    "title": "Townhouse",
+    "categoryId": {
+      "$oid": "61ae3ce7694720a9721c4763"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61ae3d5a694720a9721c4775"
+    },
+    "title": "Flat",
+    "categoryId": {
+      "$oid": "61ae3ce7694720a9721c4763"
+    },
+    "__v": 0
+  }
+]

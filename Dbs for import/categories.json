@@ -1,0 +1,23 @@
+[
+  {
+    "_id": {
+      "$oid": "61ae3b51315eed911452a7ae"
+    },
+    "title": "Holiday Villa",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61ae3c20694720a9721c474c"
+    },
+    "title": "Rental Villa",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61ae3ce7694720a9721c4763"
+    },
+    "title": "Villas for Sale",
+    "__v": 0
+  }
+]
